@@ -1,0 +1,10 @@
+torch==1.6
+torchvision==0.7
+opencv-python==4.2.0.32
+requests~=2.24.0
+numpy~=1.19.0
+matplotlib~=3.3.2
+editdistance~=0.5.3
+pandas~=1.1.2
+pingouin~=0.3.8
+scipy~=1.5.2
